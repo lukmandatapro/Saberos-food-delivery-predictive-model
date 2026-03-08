@@ -17,7 +17,7 @@ Identify the key factors contributing to high delivery costs and courier delays 
 - Univariate Analysis
 - Bivariate Analysis
 - Correlation Analysis
-- Ffeature Engineering
+- Feature Engineering
 - Machine Learning Model
 
 ## Key Insight
